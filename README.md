@@ -9,5 +9,6 @@ Streamlit
 lxml
 
 ```bash
-pip install foobar
+pip install Streamlit
+pip install lxml
 ```
