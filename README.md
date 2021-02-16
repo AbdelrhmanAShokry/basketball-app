@@ -10,3 +10,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Streaml
 pip install Streamlit
 pip install lxml
 ```
+## How to run it
+First you've to Download the basketball.py file then open anaconda prompt and type the following command
+```bash
+cd "to where the project resides"
+streamlit run .\basketball_app.py
+```
