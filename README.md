@@ -17,4 +17,4 @@ cd "to where the project resides" for example cd \Projects\3nd project
 streamlit run .\basketball_app.py
 ```
 ## How it looks like
-![alt text](https://drive.google.com/file/d/11Y44mjcP1H2N0ZGjX12tSYSZv3glZidG/view?usp=sharing)
+![Capture](https://user-images.githubusercontent.com/72499301/108135014-f8ca3d00-70bf-11eb-8c32-d40025b809a9.PNG)
