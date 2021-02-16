@@ -16,3 +16,5 @@ First you've to Download the basketball.py file then open anaconda prompt and ty
 cd "to where the project resides" for example cd \Projects\3nd project
 streamlit run .\basketball_app.py
 ```
+## How it looks like
+![alt text](http://url/to/img.png)
