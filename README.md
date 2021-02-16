@@ -16,5 +16,5 @@ First you've to Download the basketball.py file then open anaconda prompt and ty
 cd "to where the project resides" for example cd \Projects\3nd project
 streamlit run .\basketball_app.py
 ```
-## How it looks like
+## It looks like this
 ![Capture](https://user-images.githubusercontent.com/72499301/108135100-2adb9f00-70c0-11eb-8f30-07461676e9dc.PNG)
